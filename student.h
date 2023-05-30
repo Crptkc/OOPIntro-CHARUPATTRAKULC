@@ -42,6 +42,6 @@ int student::get_age(){
 void student::print_Jname(){
   cout <<" "<< name;
 }
-
+//lol
 
 
